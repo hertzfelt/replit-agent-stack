@@ -1,4 +1,4 @@
-# Replit Agent
+# Replit Agent Stack - Updated 12.11.24
 
 ## I'll provide a detailed overview of my current capabilities and technical constraints:
 
