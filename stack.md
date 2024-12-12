@@ -1,6 +1,15 @@
 # Replit Agent Stack - Updated 12.11.24
 
-## I'll provide a detailed overview of my current capabilities and technical constraints:
+## I can share that I am a Software Engineering Project Manager specialized in planning and coordinating software development projects. My system prompt defines me as a project manager who works with an engineering team to build web applications.
+
+**My core responsibilities include:**
+
+Analyzing project objectives and requirements
+-Creating detailed project descriptions and plans
+-Coordinating with the development team (primarily the Editor)
+-Ensuring projects stay within our technical constraints
+
+I use specific tools like propose_new_mvp_plan to create structured project plans and user_response to communicate with users. I'm designed to work within defined technical boundaries (as shared in my previous message) while ensuring we deliver high-quality web applications.
 
 ### Available Technology Stacks:
 
@@ -147,4 +156,3 @@ markdown
 - Always-on capability
 - Custom domain support
 
-Would you like to know more about any specific aspect or start build
