@@ -1,47 +1,100 @@
-# Replit Agent Stack - Updated 12.11.24
+# Replit Agent Technical Capabilities
 
-## I can share that I am a Software Engineering Project Manager specialized in planning and coordinating software development projects. My system prompt defines me as a project manager who works with an engineering team to build web applications.
+## Technology Stacks
 
-**My core responsibilities include:**
+### 1. FULLSTACK_JS (React + Express)
+#### Frontend Capabilities:
+- React 18+ with modern hooks and patterns
+- Shadcn UI component library for modern UI elements
+- Tailwind CSS for utility-first styling
+- Form handling with React Hook Form
+- State management with React Context or Redux
+- Client-side routing with React Router
+- TypeScript support available
 
-Analyzing project objectives and requirements
--Creating detailed project descriptions and plans
--Coordinating with the development team (primarily the Editor)
--Ensuring projects stay within our technical constraints
+#### Backend Capabilities:
+- Express.js for REST API development
+- JWT authentication support
+- PostgreSQL integration for data persistence
+- File upload handling
+- API rate limiting and security features
+- CORS and security middleware
 
-I use specific tools like propose_new_mvp_plan to create structured project plans and user_response to communicate with users. I'm designed to work within defined technical boundaries (as shared in my previous message) while ensuring we deliver high-quality web applications.
+---
 
-### Available Technology Stacks:
+### 2. FLASK_VANILLA_JS
+#### Backend Capabilities:
+- Flask 2.0+ for Python backend
+- SQLAlchemy for database operations
+- Flask-Login for session management
+- Blueprint support for modular applications
+- REST API development
+- Jinja2 templating
 
-1. **FULLSTACK_JS**:
-   - **Frontend**: React with Shadcn UI components and Tailwind CSS
-   - **Backend**: Express.js
-   - **Database**: PostgreSQL (when needed)
+#### Frontend Capabilities:
+- Vanilla JavaScript with modern ES6+ features
+- Bootstrap 5 for responsive layouts
+- AJAX for asynchronous requests
+- DOM manipulation utilities
+- Custom event handling
+- Form validation
 
-2. **FLASK_VANILLA_JS**:
-   - **Frontend**: Vanilla JavaScript with Bootstrap
-   - **Backend**: Flask (Python)
-   - **Database**: PostgreSQL (when needed)
+---
 
-3. **STREAMUIT**:
-   - All-in-one Python framework for data applications
-   - Built-in components for data visualization
-   - Integration with data science libraries
+### 3. STREAMLIT
+#### Application Capabilities:
+- Interactive data visualizations
+- Real-time data updates
+- Multi-page support
+- Custom components
+- File upload/download
+- Session state management
+- Cache mechanisms
 
-### Technical Constraints:
+#### Integration Capabilities:
+- Pandas for data manipulation
+- Plotly/Matplotlib for charts
+- NumPy for numerical operations
+- Machine learning library support
 
+---
+
+## Common Features Across Stacks
+### PostgreSQL Database Features:
+- Complex queries and joins
+- Transaction support
+- Full-text search
+- JSON data types
+- Indexing and optimization
+
+### Development Tools:
+- Git version control
+- Environment variables
+- Debug logging
+- Error tracking
+
+### Deployment (Replit):
+- Zero-configuration deployment
+- HTTPS by default
+- Environment variable management
+- Always-on capability
+- Custom domain support
+
+---
+
+## Technical Constraints
 1. **Blocked Technologies**:
-   - **Databases**: MySQL, SQLite, MongoDB
-   - **Frameworks**: Next.js, Django, Laravel, Spring Boot, ASP.NET Core
-   - **Mobile**: React Native, Flutter, Swift, Native Android
-   - **Containerization**: Docker, Kubernetes
+   - Databases: MySQL, SQLite, MongoDB
+   - Frameworks: Next.js, Django, Laravel, Spring Boot, ASP.NET Core
+   - Mobile: React Native, Flutter, Swift, Native Android
+   - Containerization: Docker, Kubernetes
 
 2. **Deployment**:
    - Only Replit deployments are supported
    - No Docker or virtual environments
 
 3. **Authentication**:
-   - Can implement basic auth when needed
+   - Can implement basic authentication when needed
    - Supports integration with services like Firebase Auth
    - PostgreSQL for user data storage
 
@@ -49,13 +102,14 @@ I use specific tools like propose_new_mvp_plan to create structured project plan
    - Can use external icon libraries
    - SVG fallback for icons
    - Stock photo integration for images
-   - Praavatar API for user avatars
+   - Pravatar API for user avatars
 
-### Development Capabilities:
+---
 
+## Development Capabilities
 1. **Web Applications**:
    - Full-stack web applications
-   - Dashboards
+   - Data dashboards
    - Simple browser games
    - Business websites
    - Content management systems
@@ -69,90 +123,8 @@ I use specific tools like propose_new_mvp_plan to create structured project plan
    - Responsive design
 
 3. **Database**:
-   - PostgreSQL when data persistence is needed
+   - PostgreSQL for data persistence when needed
    - Basic CRUD operations
    - User data storage
    - Content management
-
-Would you like to proceed with creating a specific type of application using these capabilities?
-
-Image 2:
-markdown
-# Here's a comprehensive breakdown of our technical capabilities:
-
-### 1. FULLSTACK_JS (React + Express):
-
-**Frontend Capabilities**:
-- React 18+ with modern hooks and patterns
-- Shadcn UI component library for modern UI elements
-- Tailwind CSS for styling with utility-first approach
-- Form handling with React Hook Form
-- State management with React Context or Redux
-- Client-side routing with React Router
-- TypeScript support available
-
-**Backend Capabilities**:
-- Express.js for REST API development
-- JWT authentication support
-- PostgreSQL integration for data persistence
-- File upload handling
-- API rate limiting and security features
-- CORS and security middleware
-
-### 2. FLASK_VANILLA_JS:
-
-**Backend Capabilities**:
-- Flask 2.0+ for Python backend
-- SQLAlchemy for database operations
-- Flask-Login for session management
-- Blueprint support for modular applications
-- REST API development
-- Jinja2 templating
-
-**Frontend Capabilities**:
-- Vanilla JavaScript with modern ES6+ features
-- Bootstrap for responsive layouts
-- AJAX for asynchronous requests
-- DOM manipulation utilities
-- Custom event handling
-- Form validation
-
-### 3. STREAMUIT:
-
-**Application Capabilities**:
-- Interactive data visualizations
-- Real-time data updates
-- Multiple pages support
-- Custom components
-- File upload/download
-- Session state management
-- Cache mechanisms
-
-**Integration Capabilities**:
-- Pandas for data manipulation
-- Plotly/Matplotlib for charts
-- NumPy for numerical operations
-- Machine learning library support
-
-### Common Features Across Stacks:
-
-**PostgreSQL Database Features**:
-- Complex queries and joins
-- Transaction support
-- Full-text search
-- JSON data types
-- Indexing and optimization
-
-**Development Tools**:
-- Git version control
-- Environment variables
-- Debug logging
-- Error tracking
-
-**Deployment (Replit)**:
-- Zero-configuration deployment
-- HTTPS by default
-- Environment variable management
-- Always-on capability
-- Custom domain support
 
